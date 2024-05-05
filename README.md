@@ -203,6 +203,10 @@ create: create [ARG] [PARAM 1] [PARAM 2] ...
 
 ## Authors
 
+Alexa Orrico
+EL HARRAK Mouad<elhrrakmouad@gmail.com>
+Douaa arifi<arifidouae6@gmail.com>
+
 ## License
 
 MIT License
